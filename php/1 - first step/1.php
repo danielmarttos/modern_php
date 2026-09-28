@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Hello world!</h1>
+    <p><?php echo "This is a php code!"; ?></p>
+    <p><?php echo rand(0, 100); ?></p>
 </body>
 </html>
